@@ -72,6 +72,9 @@ print("The Mean arrival rate is %.3f "%mean)
 print("The Variance of arrival from feeder is %.3f "%var) 
 print("The Standard deviation of arrival from feeder is %.3F "%sd)
 ```
+Name : Latchaya priyan S
+
+reg no : 212224230139
 
 
 
